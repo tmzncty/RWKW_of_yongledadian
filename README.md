@@ -27,4 +27,5 @@ https://github.com/1694439208/RWKV-ToolKit
 ```
 
 耗电
-![image](https://user-images.githubusercontent.com/72063145/233751899-e6a2808d-c33e-44c9-bb55-9fd8009091b7.png)
+![eff4bddf80ea728b545541dbc254234](https://user-images.githubusercontent.com/72063145/233751928-c7e65ef7-909f-4a1c-a41d-388b4e8fde89.png)
+
