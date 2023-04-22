@@ -4,6 +4,7 @@
 https://github.com/1694439208/RWKV-ToolKit
 感谢这位大佬提供的懒人包，让我可以直接开始训练。
 原始数据等后续丢到huggingface
+https://huggingface.co/TMZN/RWKV_of_yongledadian
 生成情况：
 ```余幼時即嗜學
 
